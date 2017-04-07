@@ -29,3 +29,12 @@ Over the last couple days, I have been working on manipulating data into a clean
 
 Coming from an R background, python syntax and .groupby statements has been extremely challenging for me. I plan to focus on that over the weekend.
 
+Some cool charts that I made in the couple days using Bokeh and Seaborn
+
+![w1graph1](https://github.com/mcarrie30/mcarrie30.github.io/tree/master/images.week1graph1.png)
+
+![w1graph2](https://github.com/mcarrie30/mcarrie30.github.io/tree/master/images.week1graph2.png)
+
+![w1graph3](https://github.com/mcarrie30/mcarrie30.github.io/tree/master/images.week1graph3.png)
+
+
