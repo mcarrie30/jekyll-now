@@ -36,6 +36,13 @@
             <li><a class="buttons github" href="{{ site.github.owner_url }}">GitHub Profile</a></li>
           </ul>
         {% endif %}
+
+        {% if site.github.is_user_page %}
+          <ul>
+            <li><a class="buttons linkedIn" href="{{ site.linkedin_username }}">LinkedIn Profile</a></li>
+          </ul>
+        {% endif %}
+        
       </header>
 
       <section>
