@@ -7,7 +7,7 @@ Below is my first exploratory analysis Kernel that I submitted on Kaggle.
 
 
 
-# First Kernel
+**First Kernel**
 
 Hello! I plan to look at *solved* murders. Eventually, I plan to make a prediction on the relationship of the perpetrator to the victim; however, this kernel I will explore perpetrator sex to the victim, the weapon used on the victim
 
@@ -53,6 +53,7 @@ df.dtypes.tail(8)
 
 Perpetrator_Race did not transform properly when put in a Data Frame. Upon investigation, their was a string in one of the values
 
+``````
 
 ```python
 df = df[df.Perpetrator_Age.str.contains(' ') == False]
@@ -178,4 +179,6 @@ cbar.set_ticklabels(['0%', '25%', '50%',  '75%', '100%'])
 
 
 However, the ratio of each method used compared to the other gender shows that Female perpetrators used *Drowning* as a means of killing the most frequently. Second was *Poison*, and third was *suffocation*.
+
+
 
