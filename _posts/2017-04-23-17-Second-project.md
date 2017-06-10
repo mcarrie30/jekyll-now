@@ -42,6 +42,5 @@ Overall, I thought my project did a great job of showing how team chemistry can 
 Also, if anyone would like to see the data and one of the plots, I made a quick dashboard using **Shiny**, **DT**,**Plotly** and **R**. Go check it out at [Project Luther Dashboard](https://mcarrie30.shinyapps.io/project_benson/)!
 
 ![shinyweek2](/images/shinyweek2.png)
-shinyweek2.png
 
 
