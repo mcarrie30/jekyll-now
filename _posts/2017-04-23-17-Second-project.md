@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is chemistry?
+title: What is Chemistry?
 ---
 
 Playoffs in the NBA just started, and I hear reporters on the news talking about chemistry _all the time_. However, what exactly is chemistry? What determines if teammates have good chemistry? 
